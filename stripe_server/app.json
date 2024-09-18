@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "stripe_server",
+    "slug": "stripe_server",
+    "version": "1.0.0",
+    "description": "",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "ArtGallery.co.art"
+    }
+  }
+}
