@@ -48,5 +48,21 @@
   <img src="https://github.com/user-attachments/assets/c3e689b4-d43a-43ef-91be-eb36513e9796" width="200" height="400"   />
 </div>
 
+<div>
+  <p>8. My Art Collection Screen</p>
+  <img src="https://github.com/user-attachments/assets/911e2081-b802-4384-826f-bf485c1aa334" width="200" height="400"   />
+</div>
+
+
+<div>
+  <p>9. Publish Art Screen</p>
+  <img src="https://github.com/user-attachments/assets/c1d5333d-4480-4b2b-aaad-bd869c90c8e4" width="200" height="400"   />
+</div>
+
+
+<div>
+  <p>10. Stripe Payment</p>
+  <img src="https://github.com/user-attachments/assets/b0e562a5-d51a-4b4c-89a4-ede8f1ce67e4" width="200" height="400"   />
+</div>
 
 
