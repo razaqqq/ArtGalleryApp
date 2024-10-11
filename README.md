@@ -53,11 +53,11 @@
       </td>
     </tr>
     <tr>
-      <td><p>4. Profile Screen</p></td>
+      <td><p>4</p></td>
       <td> <img src="https://github.com/user-attachments/assets/2b499461-8938-4449-8d93-ab74e8ca9625" width="200" height="400"   /></td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+         Profile Screen, in Here You Can See All Your Profile Description, if you want to change or edit your profile description you can go to (Edit Tab)
         </p>
       </td>
     </tr>
@@ -66,43 +66,43 @@
       <td><img src="https://github.com/user-attachments/assets/6e96e25b-9311-4eb2-b2b6-0c9985a18e00" width="200" height="400"   /></td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+          Edit Profile Screen, in Here You can Edit Your Profile Information and Change Your Image Profile
         </p>
       </td>
     </tr>
     <tr>
-      <td><p>6. Drawer navigation</p></td>
+      <td><p>6</p></td>
       <td><img src="https://github.com/user-attachments/assets/f29c3932-f7bf-4b51-a9e6-025fc26231ac" width="200"   height="400" /></td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+          Drawer Navigation, this Navigation Drawer there 4 Option listed in this Navigation Drawer Gallery, Profile, MyArt, LogOut
         </p>
       </td>
     </tr>
     <tr>
-      <td><p>7. Gallery Screen</p></td>
+      <td><p>7</p></td>
       <td> <img src="https://github.com/user-attachments/assets/25d1da71-2d5c-4a21-9629-9f1d10f24aba" width="200" height="400"   /></td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+          Gallery Screen, this is Gallery Screen That Contains All Art Image that Ready to Sale, and Show Art Image That Alredy Sold
         </p>
       </td>
     </tr>
     <tr>
-      <td><p>7. Gallery Product Screen</p></td>
+      <td><p>8</p></td>
       <td><img src="https://github.com/user-attachments/assets/c3e689b4-d43a-43ef-91be-eb36513e9796" width="200" height="400"   /></td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+         Gallery Product Screen, in Here You can all The in Formation of Art You want to Buy, There Contain Information about Who Make This Art. And If You Decided or Already Make Up Your Mind To Buy This Art You can Just Tap in (Buy Button)
         </p>
       </td>
     </tr>
     <tr>
-      <td><p>8. My Art Collection Screen</p></td>
+      <td><p>8</p></td>
       <td><img src="https://github.com/user-attachments/assets/911e2081-b802-4384-826f-bf485c1aa334" width="200" height="400"   /></td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+         My Art Collection, In My Art Collection it Show All Art You Have or Uploaded in this, if You Want to Publish new Art you can go to (Publish Tap)
         </p>
       </td>
     </tr>
