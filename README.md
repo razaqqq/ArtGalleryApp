@@ -35,20 +35,20 @@
       </td>
     </tr>
     <tr>
-      <td><p>2. Create Account Screen</p></td>
+      <td><p>2</p></td>
       <td><img src="https://github.com/user-attachments/assets/c00cd222-81f5-4293-b0ea-40c5c3294a8e" width="200" </td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+          Create Accoun Screen, in This Screen You can Create New Account with feeling some Information like email, fullname and password, dont forget to check list "I have read and agree to use this service" before you Create a new Account
         </p>
       </td>
     </tr>
     <tr>
-      <td><p>3. Sign In Screen</p></td>
+      <td><p>3/p></td>
       <td> <img src="https://github.com/user-attachments/assets/51ba9928-2e83-4858-99cd-761d214c792d" width="200" height="400"  /></td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+         Sign in Screen, in here you can login by using Account you created in "CreateAccount Screen" by feeling email and password Account you created then click SignIn Button
         </p>
       </td>
     </tr>
