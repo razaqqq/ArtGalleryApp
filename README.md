@@ -20,17 +20,17 @@
   <table
     >
     <tr>
-      <th width="10%">SCREEN</th>
+      <th width="10%">NO</th>
       <th width="40%">IMAGE</th>
       <th width="50%">DESCRIPTION</th>
     </tr>
     <tr>
-       <td><p>1. Home Screen</p></td>
+       <td><p>1</p></td>
        <td><img src="https://github.com/user-attachments/assets/cdd2e57e-3de2-4fb3-975a-01999cc4c847" width="200"    
        height="400"  /></td>
       <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+          Home Screen, in Home Screen There Are Two Button You Can Loggin and Sign Up
         </p>
       </td>
     </tr>
