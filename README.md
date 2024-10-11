@@ -98,7 +98,7 @@
       </td>
     </tr>
     <tr>
-      <td><p>8</p></td>
+      <td><p>9</p></td>
       <td><img src="https://github.com/user-attachments/assets/911e2081-b802-4384-826f-bf485c1aa334" width="200" height="400"   /></td>
        <td>
         <p>
@@ -107,20 +107,20 @@
       </td>
     </tr>
     <tr>
-      <td><p>9. Publish Art Screen</p></td>
+      <td><p>10</p></td>
       <td><img src="https://github.com/user-attachments/assets/c1d5333d-4480-4b2b-aaad-bd869c90c8e4" width="200" height="400"   /></td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+         Publish Art Screen, in Here you can Upload Your Art. Before You Upload Your Art yoo must fill all input like (Image, Name, description, Price) after you done fill all necessary input you can upload or publish your Art With tap in Publish Button
         </p>
       </td>
     </tr>
     <tr>
-      <td><p>10. Stripe Payment</p></td>
+      <td><p>11</p></td>
       <td> <img src="https://github.com/user-attachments/assets/b0e562a5-d51a-4b4c-89a4-ede8f1ce67e4" width="200" height="400"   /></td>
        <td>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget vehicula erat. Phasellus rutrum dui vel lorem rhoncus bibendum. Phasellus egestas erat eu sem pellentesque accumsan. Ut at magna at lorem ultrices viverra. Nulla ac libero ultrices, commodo nunc quis, accumsan orci. Nam fringilla sit amet tortor vel tincidunt. Praesent efficitur nisi eget leo sollicitudin, eu pharetra sem sodales. Duis mollis molestie nulla, commodo auctor est eleifend quis. Praesent imperdiet, risus ut euismod euismod, nisi erat tincidunt nibh, placerat feugiat eros lacus quis neque.
+         Stripe payment, When Click Buy Button it Show STripe Paymenty You Must Fill all Input to Progress Your Purchase
         </p>
       </td>
     </tr>
