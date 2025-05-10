@@ -39,7 +39,7 @@
       <td><img src="https://github.com/user-attachments/assets/c00cd222-81f5-4293-b0ea-40c5c3294a8e" width="200" </td>
        <td>
         <p>
-          Create Accoun Screen, in This Screen You can Create New Account with feeling some Information like email, fullname and password, dont forget to check list "I have read and agree to use this service" before you Create a new Account
+          Create Accoun Screen, in This Screen You can Create New Account with filling some Information like email, fullname and password, dont forget to check list "I have read and agree to use this service" before you Create a new Account
         </p>
       </td>
     </tr>
@@ -48,7 +48,7 @@
       <td> <img src="https://github.com/user-attachments/assets/51ba9928-2e83-4858-99cd-761d214c792d" width="200" height="400"  /></td>
        <td>
         <p>
-         Sign in Screen, in here you can login by using Account you created in "CreateAccount Screen" by feeling email and password Account you created then click SignIn Button
+         Sign in Screen, in here you can login by using Account you created in "CreateAccount Screen" by filling email and password Account you created then click SignIn Button
         </p>
       </td>
     </tr>
